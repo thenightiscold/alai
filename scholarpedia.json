@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Al-Khwarizmi",
+    "field": "Mathematics",
+    "century": "9th",
+    "contribution": "Father of Algebra; introduced algorithms and decimal system.",
+    "region": "Baghdad"
+  },
+  {
+    "name": "Ibn Sina",
+    "field": "Medicine",
+    "century": "10th",
+    "contribution": "Authored 'The Canon of Medicine', used for centuries.",
+    "region": "Bukhara"
+  },
+  {
+    "name": "Al-Zahrawi",
+    "field": "Surgery",
+    "century": "10th",
+    "contribution": "Pioneered surgical instruments and medical practices.",
+    "region": "Al-Andalus"
+  },
+  {
+    "name": "Al-Biruni",
+    "field": "Astronomy",
+    "century": "11th",
+    "contribution": "Calculated Earth's radius, theorized planetary orbits.",
+    "region": "Khwarezm"
+  },
+  {
+    "name": "Fatima al-Fihri",
+    "field": "Education",
+    "century": "9th",
+    "contribution": "Founded the first degree-granting university in Fez.",
+    "region": "Morocco"
+  }
+]

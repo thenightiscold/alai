@@ -1,0 +1,27 @@
+{
+  "Al-Khwarizmi": [
+    "Algebra",
+    "Algorithm",
+    "Computer Science"
+  ],
+  "Ibn Sina": [
+    "Clinical Medicine",
+    "Medical Ethics",
+    "Modern Diagnosis"
+  ],
+  "Al-Zahrawi": [
+    "Surgical Tools",
+    "Scalpels",
+    "Robotic Surgery"
+  ],
+  "Al-Biruni": [
+    "Geophysics",
+    "Time Zones",
+    "Astronomy Software"
+  ],
+  "Fatima al-Fihri": [
+    "Universities",
+    "Accreditation Systems",
+    "Open Learning"
+  ]
+}
